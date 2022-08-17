@@ -1,0 +1,12 @@
+{
+  "name": "desafio-repositorio-en-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/main.scss ./style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

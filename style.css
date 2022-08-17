@@ -1,0 +1,82 @@
+.grilla {
+  background-color: #D9AFD9;
+  background-image: linear-gradient(0deg, #D9AFD9 53%, #6e94a2 100%);
+}
+.grilla .contenedor {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.grilla .contenedor a {
+  font-family: sans-serif;
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 18px;
+}
+.grilla .contenedor img {
+  height: 70px;
+  width: 55px;
+  margin: 8px;
+}
+.grilla .contenedor nav, .grilla .contenedor ul, .grilla .contenedor li {
+  display: inline;
+  margin-right: 92px;
+}
+.grilla .contenedor a:hover {
+  color: #D9AFD9;
+}
+
+.grilla {
+  background-color: #D9AFD9;
+  background-image: linear-gradient(0deg, #D9AFD9 53%, #6e94a2 100%);
+}
+.grilla .principal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.grilla .principal h1 {
+  font-family: sans-serif;
+  font-size: 40px;
+  align-self: flex-start;
+  margin: 10px;
+  color: #D9AFD9;
+}
+.grilla .principal h2 {
+  font-family: sans-serif;
+  font-size: 30px;
+  margin: 10px;
+  color: aliceblue;
+  animation-duration: 2s;
+  animation-name: aparecer;
+  animation-delay: 0s;
+}
+.grilla .principal img {
+  height: 350px;
+  width: 250px;
+  margin-bottom: 40px;
+}
+.grilla .principal p {
+  font-family: sans-serif;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  color: aliceblue;
+  width: 350px;
+}
+
+.grilla {
+  background-color: #D9AFD9;
+  background-image: linear-gradient(0deg, #D9AFD9 53%, #6e94a2 100%);
+}
+.grilla .pieDePagina {
+  color: #537987;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
+.grilla p {
+  margin: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
